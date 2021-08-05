@@ -59,4 +59,6 @@ import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contr
 
 ![](https://github.com/zq19/CatchBall/blob/master/images/20210806003747.jpg)
 
-接着我们点击 "Deploy" 按钮旁的下拉菜单来设置 ERC20 代币的名称和符号。
+接着我们点击 "Deploy" 按钮旁的下拉菜单来设置 ERC20 代币的名称和符号。这里设置的是名称 Starcoin 和符号 STAR。
+
+![](https://github.com/zq19/CatchBall/blob/master/images/20210806011128.jpg)
