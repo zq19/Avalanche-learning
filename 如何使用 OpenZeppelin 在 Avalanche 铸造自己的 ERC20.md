@@ -59,6 +59,12 @@ import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contr
 
 ![](https://github.com/zq19/CatchBall/blob/master/images/20210806003747.jpg)
 
-接着我们点击 "Deploy" 按钮旁的下拉菜单来设置 ERC20 代币的名称和符号。这里设置的是名称 Starcoin 和符号 STAR。
+接着我们点击 "Deploy" 按钮旁的下拉菜单来设置 ERC20 代币的名称和符号。这里设置的是名称 Starcoin 和符号 STAR。设置好之后，点击 "transact" 按钮。
 
 ![](https://github.com/zq19/CatchBall/blob/master/images/20210806011128.jpg)
+
+填写手续费用，可以参考 [GAS NOW](https://www.gasnow.org/)
+
+![](https://github.com/zq19/CatchBall/blob/master/images/20210806112624.jpg)
+
+接着我们点击 "confirm".gas 太贵，就不继续了。。。有些遗憾。
